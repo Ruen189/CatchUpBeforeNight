@@ -1,0 +1,12 @@
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\bin\Debug\CatchUpBeforeNight1.exe.config
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\bin\Debug\CatchUpBeforeNight1.exe
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\bin\Debug\CatchUpBeforeNight1.pdb
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.csproj.AssemblyReference.cache
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.Properties.Resources.resources
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.csproj.GenerateResource.cache
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.csproj.CoreCompileInputs.cache
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.exe
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.pdb
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.View.resources
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\Interop.WMPLib.dll
+C:\Users\rosti\source\repos\CatchUpBeforeNight1\CatchUpBeforeNight1\obj\Debug\CatchUpBeforeNight1.csproj.ResolveComReference.cache
